@@ -143,6 +143,21 @@ public class Ejercicio_02 extends javax.swing.JFrame {
         TXT_cc.requestFocus();
     }//GEN-LAST:event_BTN_nuevoActionPerformed
 
+
+
+/*
+
+  █████╗  ██████╗ ██╗   ██╗██╗████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ 
+ ██╔══██╗██╔═══██╗██║   ██║██║╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗
+ ███████║██║   ██║██║   ██║██║   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║
+ ██╔══██║██║   ██║██║   ██║██║   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║
+ ██║  ██║╚██████╔╝╚██████╔╝██║   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║
+ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+
+                                << AQUI TERMINA >>
+
+*/
+
     private void BTN_salirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BTN_salirActionPerformed
         System.exit(0);
     }//GEN-LAST:event_BTN_salirActionPerformed
