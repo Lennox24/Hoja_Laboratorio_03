@@ -85,6 +85,21 @@ public class Ejercicio_04 extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+
+     /*
+
+  █████╗ ██╗   ██╗ ██████╗ ██╗██╗     ███████╗███╗   ███╗██████╗ ██╗███████╗███████╗
+ ██╔══██╗██║   ██║██╔═══██╗██║██║     ██╔════╝████╗ ████║██╔══██╗██║██╔════╝██╔════╝
+ ███████║██║   ██║██║   ██║██║██║     █████╗  ██╔████╔██║██████╔╝██║█████╗  ███████╗
+ ██╔══██║██║   ██║██║   ██║██║██║     ██╔══╝  ██║╚██╔╝██║██╔═══╝ ██║██╔══╝  ╚════██║
+ ██║  ██║╚██████╔╝╚██████╔╝██║███████╗███████╗██║ ╚═╝ ██║██║     ██║███████╗███████║
+ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝
+
+                                >> AQUI EMPIEZA <<
+
+    
+    */
+
     private void formWindowActivated(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowActivated
         TXT_imp.setEditable(false);
         TXT_desc.setEditable(false);
